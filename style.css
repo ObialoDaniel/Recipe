@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+.attribution { 
+    font-size: 11px; text-align: center;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+body{
+    background-color:  hsl(330, 100%, 98%);     
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.card{
+    background-color: hsl(0, 0%, 100%);
+    width: 500px;
+    height: 100% ;
+    font-size: 11px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(14, 45%, 36%);
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border: 30px 30px;
+    padding: 30px 30px;
+
+
+}
+img{
+    width: 440px;
+    border-radius: 10px;
+    display: flex;
+    margin: 0;
+}
+h2{
+    color: hsl(24, 5%, 18%);
+    display: flex;
+    text-align: left;
+    font-family: "Young Serif", serif;
+    font-weight: 400;  
+    margin: 20px 0px;
+    font-size: 25px;
+
+}
+.recipe p{
+    font-size: 11px;
+    text-align: left;
+    display:block;
+    margin: 20px 0px;
+    
+}
+.prep {
+    display: block;
+    text-align: left;
+    margin: 20px 0px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    border: 50px;
+    padding: 20px;
+}
+h4{
+    display: block;
+    text-align: left;
+   color: hsl(332, 51%, 32%);
+   margin: 10px 0px;
+}
+.prep li{
+    list-style-position: inside;
+    margin: 10px 0px;
+    font-size: 12px;
+}
+.spices{
+    border-bottom: 1px solid #ddd;
+}
+.spices h3{
+    text-align: left;
+    margin: 20px 0px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.spices li{
+    text-align: left;
+    margin: 20px 0px;
+    list-style-position: inside;
+}
+.details{
+    border-bottom: 1px solid #ddd;
+}
+.details h3{
+    text-align: left;
+    margin: 20px 0px;
+    font-family:"Young Serif", serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.details li{
+    text-align: left;
+    margin: 20px 0px;
+    list-style-position:inside;
+}        
+   
+.component h3{
+    text-align: left;
+    margin: 20px 0px;
+    font-family:"Young Serif", serif;
+    font-weight: 400;
+    font-size: 20px;
+}     
+.component p{   
+    font-size: 11px;
+    text-align: left;
+    display:block;
+    margin: 20px 0px;  
+}  
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0px;
+}       
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}                                                                                               
